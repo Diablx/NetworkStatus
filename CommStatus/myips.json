@@ -1,0 +1,24 @@
+{
+  "ipobject":[
+    {
+      "IPAdress": "155.5.1.3",
+      "ErrorDescription": "switch, call IT"
+    },
+    {
+      "IPAdress": "10.0.13.23",
+      "ErrorDescription": "dns ip"
+    },
+    {
+      "IPAdress": "127.0.0.1",
+      "ErrorDescription": "localhost"
+    },
+    {
+      "IPAdress": "10.0.0.100",
+      "ErrorDescription": "wi-fi"
+    },
+    {
+      "IPAdress": "212.77.98.9",
+      "ErrorDescription": "router"
+    }
+  ]
+}
